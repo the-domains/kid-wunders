@@ -1,7 +1,7 @@
 name: Kid Wunders
 favicon: null
-layout_spectrum: 0.12610876839607954
-typography_spectrum: 0.6140862912870944
+layout_spectrum: 0.2762
+typography_spectrum: 0.57053
 title: 'Kid Wunders - Play, Learn, Make.'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8016618988476694
+    - '#ffffff'
+    - '#3e93f2'
+    - '#050505'
+    - '#769b3e'
+    - '#aa4481'
+  brandStrength: 0.9375
   lightness: 0.9364897850900888
-  saturation: 0.9127705569844693
-  rhythmicContrast: 0.41965353512205184
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
