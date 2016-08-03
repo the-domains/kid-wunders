@@ -4,8 +4,15 @@
         <description><![CDATA[Kid Wunders - Play, Learn, Make.]]></description>
         <link>http://www.kidwunders.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 00:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 00:57:00 GMT</lastBuildDate>
         <atom:link href="http://www.kidwunders.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87bbf713-d230-4903-a56f-70cc475848ec.png" alt="" title="">]]></description>
+            <link>http://www.kidwunders.com/c2b62cd3-ac93-4d9a-b9b6-cb9317f36d1e/index.html</link>
+            <guid isPermaLink="false">c2b62cd3-ac93-4d9a-b9b6-cb9317f36d1e</guid>
+            <pubDate>Wed, 03 Aug 2016 00:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WUNDER-CODING PROGRAM]]></title>
             <description><![CDATA[<article><h1>WUNDER-CODING PROGRAM</h1><p>We work with K-12 schools in the US to help implement coding programs within their schools. We empower teachers to become facilitators by curating full lesson plans and materials for them. It's as easy as opening up your lesson binder and following the steps to engage your classrooms. We promote peer learning and self-progression. We let the programs teach your students while your teachers enable the process to happen. We also bring in mentors, skilled in coding, to mentor your students in technical difficulties and challenges. Most importantly, we want to partner with schools to develop a new generation of innovators.</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.kidwunders.com/cultivate-a-curious-mind/index.html</link>
             <guid isPermaLink="false">6b4df14c-c54d-4408-bcf6-260662df1e05</guid>
             <pubDate>Wed, 03 Aug 2016 00:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87bbf713-d230-4903-a56f-70cc475848ec.png" alt="" title="">]]></description>
-            <link>http://www.kidwunders.com/c2b62cd3-ac93-4d9a-b9b6-cb9317f36d1e/index.html</link>
-            <guid isPermaLink="false">c2b62cd3-ac93-4d9a-b9b6-cb9317f36d1e</guid>
-            <pubDate>Wed, 03 Aug 2016 00:28:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
