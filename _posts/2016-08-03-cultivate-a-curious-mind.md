@@ -5,17 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-03T00:29:04.443Z'
-dateModified: '2016-08-03T00:02:14.180Z'
+datePublished: '2016-08-03T00:58:31.465Z'
+dateModified: '2016-08-03T00:58:31.066Z'
 title: CULTIVATE A CURIOUS MIND
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-03-cultivate-a-curious-mind.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: cultivate-a-curious-mind/index.html
 _type: Article
 
